@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Stortny</h1>
 <h3 align="center">eeppy cybersec enthusiast</h3>
